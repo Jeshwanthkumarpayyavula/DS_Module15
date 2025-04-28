@@ -1,4 +1,4 @@
-V# Ex 3B Binary Search Tree
+# Ex 3B Binary Search Tree
 ## DATE: 14-3-2025
 ## AIM:
 To write a C function to insert the elements in the binary search tree
